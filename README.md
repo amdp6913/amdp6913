@@ -1,7 +1,7 @@
 - 👋 Good day to you! I’m @amdp6913, a normie.
 - 👀 To name a few, I’m interested in Anime and Music.
 - 🌱 I’m currently learning Web Development, Networking, and Integration.
-- 😄 Pronouns: We.
+- 😄 Pronouns: He.
 - ⚡ Fun fact: I like chocolate.
 
 <!---
